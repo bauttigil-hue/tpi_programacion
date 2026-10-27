@@ -23,7 +23,7 @@ Integrante
 Bautista Gil	
 Agustin Tomadin
 Links
-Video demostrativo: [completar]
+Video demostrativo: https://youtu.be/8hB6iG72dzg
 Documentacion en PDF: Disponible en repo
 Requisitos
 Python 3.x
