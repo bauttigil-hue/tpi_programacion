@@ -1,6 +1,6 @@
 # Gestion de Datos de Paises - TPI Programacion 1
 
-Trabajo Practico Integrador - Programacion 1 - Tecnicatura Universitaria en Programacion - UTN
+Trabajo Practico Integrador - Programacion 1 - 
 
 ## Descripcion
 
@@ -41,7 +41,7 @@ Cada vez que se agrega o se actualiza un pais, los cambios se guardan en el CSV.
 
 ## Links
 
-- Video demostrativo: https://youtu.be/8hB6iG72dzg
+- Video demostrativo: https://youtu.be/J233eETXkP4
 - Documentacion en PDF: disponible en el repo
 
 ## Como usarlo
